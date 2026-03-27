@@ -79,7 +79,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=student-nitish&theme=tokyonight" />
+ <img src="https://streak-stats.demolab.com?user=student-nitish&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -101,11 +101,12 @@
 ---
 
 ## 💼 Experience
-
 **Web Developer Intern – Megamind IT Services**
 
-* Built production-ready websites for real clients  
-* Worked on deployment, Git workflows & client feedback  
+* Built and deployed responsive, production-ready websites for international and domestic clients  
+* Collaborated with designers and senior developers to deliver scalable solutions  
+* Worked with Git-based workflows, deployment pipelines, and iterative client feedback  
+* Improved performance and usability of web applications through optimization and testing  
 
 ---
 
