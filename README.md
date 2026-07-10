@@ -5,18 +5,22 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+(MERN);AI+%26+ML+Enthusiast;Building+Real-Time+Systems;Open+to+Opportunities&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+(MERN);AI+%26+ML+Enthusiast;Open+to+Opportunities&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE @ IIIT Bhubaneswar (2023–2027)  
-💻 Full Stack Developer (MERN)  
-🤖 Currently Learning **Machine Learning & AI Systems**  
-💼 Ex-Web Developer Intern @ Megamind IT Services  
-🧠 Solved **350+ DSA problems**  
+🎓 B.Tech CSE @ IIIT Bhubaneswar (2023–2027)
+
+💻 Full Stack Developer (MERN)
+
+📊 Machine Learning Enthusiast | 🤖 Exploring Generative AI and Rag Application
+
+💼 Ex-Web Developer Intern @ Megamind IT Services
+
+🧠 Solved 450+ DSA Problems
 
 ---
 
@@ -34,15 +38,18 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,github" />
 </p>
 
-### 🤖 AI / Data
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-- 📊 Pandas  
-- 🔢 NumPy  
-- 📈 Matplotlib  
+- 🤖 Machine Learning
+- 🧠 Generative AI (LLMs & RAG)
+- 📊 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+- 🤖 Scikit-learn
 
 ---
 
@@ -94,7 +101,7 @@
 
 ## 🏆 Achievements
 
-* 🧠 350+ DSA Problems Solved  
+* 🧠 450+ DSA Problems Solved  
 * 🔗 LeetCode: https://leetcode.com/u/nitishrajak/  
 * 🔗 CodeStudio: https://www.naukri.com/code360/profile/nitishrajak  
 
@@ -113,16 +120,12 @@
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/nitish-kumar-rajak-09a6b4292">
+<a href="https://www.linkedin.com/in/nitish-rajak-09a6b4292/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://github.com/student-nitish">
+<a href="https://github.com/nitishrajak18">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I love building **AI-powered full stack apps with real-time capabilities 🚀**
