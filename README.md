@@ -78,15 +78,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=student-nitish&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=student-nitish&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nitishrajak18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitishrajak18&layout=compact&theme=tokyonight" />
 </p>
 ---
 
 ## 🔥 Streak Stats
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=student-nitish&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+ <img src="https://streak-stats.demolab.com?user=nitishrajak18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/student-nitish/student-nitish/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nitishrajak18/nitishrajak18/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
