@@ -67,6 +67,13 @@
 
 ---
 
+ ###  Multi-Source RAG Analyzer (LangChain)
+* Developed a multi-document RAG chatbot using LangChain, HuggingFace Embeddings and Perplexity API. 
+* Implemented semantic retrieval, source citation and relevance scoring for PDF-based question answering. 
+* Built interactive visualizations to improve document insights, reducing information retrieval time by nearly 70%
+
+---
+
 ### 📚 StudyNotion (Ed-Tech Platform)
 
 * Full-stack platform for content creation & consumption
